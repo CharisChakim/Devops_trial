@@ -1,2 +1,2 @@
 # Devops_trial
-Bimasakti test
+This repository is trial to learn about devops module build and configuration on kubernetes
